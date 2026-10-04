@@ -574,4 +574,9 @@ $lang['about_app_premium'] = 'Wir bieten umfassende Dienstleistungen für selbst
 $lang['go_premium'] = 'Premium erwerben';
 $lang['notify_users_on_create_question'] = 'Möchten Sie den Kunden über diesen neuen Termin informieren?';
 $lang['notify_users_on_delete_question'] = 'Möchten Sie den Kunden über die Stornierung des Termins informieren?';
+$lang['booking_email_note'] = 'Hinweis in Buchungs-E-Mails';
+$lang['booking_email_note_placeholder'] = 'Hier kannst du einen optionalen Hinweis für Kundinnen und Kunden hinterlegen. Wenn ein Hinweis gesetzt ist, wird er in der Buchungsbestätigung angezeigt.';
+$lang['booking_email_note_to_customer'] = 'Hinweis Ihrer Ansprechperson';
+$lang['reply_to_customer_for_provider_email'] = 'Auf Kunden-E-Mail antworten';
+$lang['reply_to_customer_for_provider_email_info'] = 'Wenn diese Option aktiviert ist, wird bei der Benachrichtigungs-E-Mail an die Ansprechperson die E-Mail-Adresse der buchenden Person als Antwortadresse verwendet.';
 // End
